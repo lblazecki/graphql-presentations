@@ -1,0 +1,11 @@
+{
+  "name": "graphql-project",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./lib"
+  },
+  "dependencies": {
+    "graphql": "^0.11.6"
+  }
+}

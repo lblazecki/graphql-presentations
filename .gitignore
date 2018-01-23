@@ -1,0 +1,11 @@
+node_modules/
+local_testing/
+.nyc_output/
+coverage/
+
+.DS_Store
+.idea
+*.iml
+*.log
+config/local.js
+.eslintcache
